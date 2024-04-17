@@ -1,5 +1,3 @@
-//> using dep dev.zio::zio:2.0.21
-
 package zio
 
 import scala.annotation.{MacroAnnotation, experimental}

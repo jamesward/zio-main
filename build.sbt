@@ -1,5 +1,5 @@
-scalaVersion := "3.4.0"
+scalaVersion := "3.4.1"
 
-libraryDependencies += "dev.zio" %% "zio" % "2.0.21"
+libraryDependencies += "dev.zio" %% "zio" % "2.0.22"
 
 scalacOptions += "-experimental"
